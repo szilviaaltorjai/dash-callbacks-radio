@@ -6,10 +6,10 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks'
+myheading1='How to find the cat callback'
 tabtitle = 'xkcd'
 list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot', 'cat']
-list_of_images=['cat.png', 'outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
+list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png', 'cat.jpg', ]
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/szilviaaltorjai/dash-callbacks-radio'
 
