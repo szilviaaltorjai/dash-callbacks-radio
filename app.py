@@ -8,8 +8,8 @@ from dash.dependencies import Input, Output, State
 
 myheading1='How to find the cat callback'
 tabtitle = 'xkcd'
-list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot', 'cat']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png', 'cat.jpg', ]
+list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot', 'cat', 'sleeping cat']
+list_of_images=['good_code.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'cat.jpg', 'sleeping.jpg' ]
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/szilviaaltorjai/dash-callbacks-radio'
 
